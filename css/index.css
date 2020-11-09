@@ -1,0 +1,14 @@
+section {
+    height: 465px;
+}
+input[type=submit] {
+    width: 400px;
+}
+.jumbotron {
+	padding: 10px;
+	margin: 0px;
+}
+.form-control {
+    width: 700px;
+    margin: auto;
+}

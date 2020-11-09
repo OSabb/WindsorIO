@@ -1,0 +1,17 @@
+body {
+	background-color: #edf9ff;
+}
+footer {
+    background-color: #386f8a;
+    color: white;
+}
+button, input[type=submit] {
+    cursor: pointer;
+}
+a:link, a:visited {
+	color: #386f8a;
+}
+.jumbotron {
+	background-color: #192f3a;
+    color: white;
+}

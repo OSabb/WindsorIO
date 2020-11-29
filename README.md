@@ -9,4 +9,4 @@ Notes:
   * [jsoup](https://jsoup.org/)
 * Website code require their respective folders (html, css, js, files)
   * The main navigatable html/php files are 'index.php' and 'auser.php'
-  * Login details for the website are as follows: (averageuser, user)
+  * Login details for the [website](http://zhou16g.myweb.cs.uwindsor.ca/comsci/comp3220/html/index.php) are as follows: (averageuser, user)

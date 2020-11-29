@@ -34,7 +34,7 @@ public class JPDataScrapper extends DataScrapper {
 			ja = new JSONArray(sc.nextLine());
 			sc.close();
 		} catch(IOException e) {
-			System.out.println("Invalid link.");
+			e.printStackTrace();
 		}
 		
 		parseData();

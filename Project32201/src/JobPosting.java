@@ -80,6 +80,6 @@ public class JobPosting {
 	
 	//Overriding toString() method
 	public String toString() {
-		return title + ", " + category + ", " + contact + ", " + description + ", " + link;
+		return title + "\n" + category + "\n" + contact + "\n" + description + "\n" + link;
 	}
 }

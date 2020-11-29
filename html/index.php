@@ -33,7 +33,7 @@
       </form>
     </section>
     <footer class="page-footer font-small">
-      <div class="footer-copyright text-left p-2">Developers: Julia, Darius, Moose, Omar</div>
+      <div class="footer-copyright text-left p-2">Developed by Darius</div>
     </footer>
   </body>
 </html>

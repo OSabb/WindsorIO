@@ -6,7 +6,6 @@
 */
 
 import java.net.URL;
-import java.util.*;
 import org.json.*;
 
 abstract class DataScrapper {
